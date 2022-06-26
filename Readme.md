@@ -1,3 +1,11 @@
+<h3>Participei da "Maratona Explorer" com a Rocketseat para estudar mais os conceitos de HTML, CSS e Javascript. 
+Neste laboratório consegui compreender melhor o que são variáveis e como aplicá-las. </h3>
+<h4>Nota: Deixo salvo no github para fins de pesquisas futuras.</h4>
+  
+![Screenshot_1](https://user-images.githubusercontent.com/67671454/175816242-64e98786-8262-4dc0-aef5-0f5f1ce54f61.png) 
+
+  ![Desktop-2022 06 25---22 04](https://user-images.githubusercontent.com/67671454/175816260-aa5878a7-2112-416d-9315-2cf1e3038930.gif)
+
 # HTML
 - HyperText Markup Language
 
